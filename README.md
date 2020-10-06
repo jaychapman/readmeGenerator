@@ -1,8 +1,6 @@
 # My Project
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-![screenshot](assets/img/screenshot1.jpg)
-
 ## Description 
 
 This application was created to generate a template for a good README.md file. The application runs using node.js and generates a README file based on user input using the command line. The file is generated complete with a table of contents linked to each section. The application also gives the option of which type of license to choose for the project and allows the user to choose guidelines for contributing to the project. This README file template was created using this application.
@@ -28,6 +26,8 @@ To install this application you must be running node.js and requires these node 
 6. Your README file will be automatically generated in the same directory that where your js file is located.
 
 ## Usage
+
+![screenshot](assets/img/screenshot2.jpg)
 
 Follow the command prompts to create a good README file. Check out this video for a demonstration of how the applicaton works:
 
