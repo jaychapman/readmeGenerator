@@ -29,9 +29,8 @@ To install this application you must be running node.js and requires these node 
 
 ![screenshot](assets/img/screenshot2.jpg)
 
-Follow the command prompts to create a good README file. Check out this video for a demonstration of how the applicaton works: https://youtu.be/O1diJB13y6w
+Follow the command prompts to create a good README file. [Check out this video for a demonstration of how the applicaton works](https://youtu.be/O1diJB13y6w)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O1diJB13y6w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Contributing
 
