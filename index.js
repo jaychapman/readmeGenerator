@@ -29,7 +29,7 @@ function promptUser() {
     {
       type: "list",
       name: "contributing",
-      message: "What are the guidelines to allow others to contribute to this project. The default option is The Contributor Covenant, or you can select custom guidelines to write your own.",
+      message: "What are the guidelines to allow others to contribute to this project?",
       choices: ["The Contributor Covenant Code of Conduct", "Custom Guidelines"],
       default: "The Contributor Covenant Code of Conduct"
     },
