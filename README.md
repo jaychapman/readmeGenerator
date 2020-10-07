@@ -31,6 +31,8 @@ To install this application you must be running node.js and requires these node 
 
 Follow the command prompts to create a good README file. Check out this video for a demonstration of how the applicaton works: https://youtu.be/O1diJB13y6w
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O1diJB13y6w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Contributing
 
 This project is not accepting contributions at this time. However if your application does want to accept contributions you can use the default option of the [The Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/). Alternatively you can also use custom guidelines.
