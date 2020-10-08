@@ -34,7 +34,7 @@ Follow the command prompts to create a good README file. [Check out this video f
 
 ## Contributing
 
-This project is not accepting contributions at this time. However if your application does want to accept contributions you can use the default option of the [The Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/). Alternatively you can also use custom guidelines.
+When using this README generator, you are provieded with the option of writing your own custom policies for contributing or you can use the the default option of the [The Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/).
 
 ## Tests
 
